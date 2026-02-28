@@ -8,8 +8,8 @@
   - [Installing Windows Server on VMWare](https://github.com/vinnintech/Installing-Windows-Server-on-VMWare)
   - [Setting up a VPN in Windows]()
 - Active Directory
-  - [Installing and Configuring Active Directory]()
-  - [Creating a Domain]()
+  - [Installing and Configuring Active Directory](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)
+  - 
   - [Resetting Passwords in Active Directory]()
 - Spiceworks (Help Desk Ticketing System)
   - 1

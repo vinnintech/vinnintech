@@ -4,8 +4,8 @@
 
 ## 👨‍💻 Information Technology Projects:
 - Windows
-  - [Installing Windows on a VMWare](https://github.com/vinnintech/Installing-Windows-on-VMWare)
-  - [Installing Windows Server on VMWare](https://github.com/vinnintech/Installing-Windows-Server-on-VMWare)
+  - [Installing Windows on a Virtual Machine](https://github.com/vinnintech/Installing-Windows-on-VMWare)
+  - [Installing Windows Server on a Virtual Machine](https://github.com/vinnintech/Installing-Windows-Server-on-VMWare)
   - [Setting up a VPN in Windows]()
 - Active Directory
   - [Installing and Configuring Active Directory](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)

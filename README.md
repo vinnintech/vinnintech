@@ -7,9 +7,8 @@
   - [Installing Windows on a Virtual Machine](https://github.com/vinnintech/Installing-Windows-on-VMWare)
   - [Installing Windows Server on a Virtual Machine](https://github.com/vinnintech/Installing-Windows-Server-on-VMWare)
 - Active Directory
-  - [Installing and Configuring Active Directory](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)
-  - 
-  - [Resetting Passwords in Active Directory]()
+  - [Active Directory: Installing and Configuring Active Directory](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)
+  - [Active Directory: Creating Users, Group Policy and Managing Accounts]()
 - Spiceworks (Help Desk Ticketing System)
   - 1
   - 2

@@ -9,6 +9,7 @@
 - Active Directory
   - [Active Directory: Installing and Configuring Active Directory](https://github.com/vinnintech/Installing-and-Configuring-an-Active-Directory-Domain)
   - [Active Directory: Creating Users, Group Policy and Managing Accounts]()
+  - [Active Directory: Identity & Access Management Lab](https://github.com/vinnintech/Active-Directory-Identity-and-Access-Management-Lab)
 - Spiceworks (Help Desk Ticketing System)
   - [Spiceworks: Help Desk Setup and Configuration](https://github.com/vinnintech/spiceworks-help-desk-ticketing-lab/blob/main/Spiceworks%20Setup/README.md)
   - [Spiceworks: Creating and Managing Support Tickets]()

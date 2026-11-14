@@ -1,6 +1,8 @@
 # Hey, I'm Vincent Egbunine Jr. <br/> IT Support and Enthusiast
 ## About Me 
-### I have aspirations to break in to the realm of IT. I have been and still am very passionate about the creation of software and creating a reliable way for the tech to be used. With that in mind,I have taken the time to self-teach with hands-on labs and projects as well as taking the role in college as a Computer Science major, to build skills in IT troubleshooting, Windows, Linux, and Active Directory. In the future, I plan on focusing on integrating AI and using the cloud for work effectiveness. 
+### I am an aspiring IT professional building practical experience in Windows Server administration, Active Directory, technical troubleshooting, and IT support through hands-on virtual lab environments.
+
+My projects demonstrate real-world IT support responsibilities, including user account management, access control, network file sharing, and troubleshooting.
 
 ## 👨‍💻 Information Technology Projects:
 - Windows

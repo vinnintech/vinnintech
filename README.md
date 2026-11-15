@@ -22,3 +22,4 @@ My projects demonstrate real-world IT support responsibilities, including user a
   - [PowerShell: Help Desk Automation (Upcoming)]()
 ## Certifications
 - CompTIA A+ (In Progress)
+- HIPAA Compliance 

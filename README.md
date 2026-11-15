@@ -16,6 +16,9 @@ My projects demonstrate real-world IT support responsibilities, including user a
   - [Spiceworks: Help Desk Setup and Configuration](https://github.com/vinnintech/spiceworks-help-desk-ticketing-lab/blob/main/Spiceworks%20Setup/README.md)
   - [Spiceworks: Creating and Managing Support Tickets]()
   - [Spiceworks: Troubleshooting and Resolving IT Incidents]()
-
+- PowerShell (Windows Administration and Backup)
+  - [PowerShell: Windows File Management and Backup Verification](https://github.com/vinnintech/PowerShell-HelpDesk-File-Management-and-Backup)
+  - [PowerShell: System Information and Diagnostics (Upcoming)]()
+  - [PowerShell: Help Desk Automation (Upcoming)]()
 ## Certifications
 - CompTIA A+ (In Progress)
